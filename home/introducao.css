@@ -25,10 +25,8 @@
 }
 .introducao-conteudo h1{
     margin-bottom: 32px;
-    font-size: 4rem;
-    line-height: 1.125;
     color: #ffffff;
-    font-family: var(--fonte1);
+
 }
 
 .introducao-conteudo h1>span{
@@ -36,10 +34,7 @@
 }
 .introducao-conteudo p{
     margin-bottom: 20px;
-    font-size: 1.5rem;
-    line-height: 1.5;
     color: #b2b2b2;
-    font-family: var(--fonte2);
 }
 
 
